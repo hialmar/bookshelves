@@ -11,7 +11,7 @@ export class AppComponent {
 
   constructor() {
     const firebaseConfig = {
-      apiKey: 'AIzaSyAySgTTh-i-BOp89VSt7_a2GmRFa429GHc', // old key was regenerated
+      apiKey: 'ADD KEY HERE', // old key was regenerated
       authDomain: 'bookshelves-251807.firebaseapp.com',
       databaseURL: 'https://bookshelves-251807.firebaseio.com',
       projectId: 'bookshelves-251807',
